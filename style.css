@@ -750,6 +750,7 @@ section .title::after{
     text-align: center;
     overflow: hidden;
     transition: all 0.3s ease;
+    min-height: 400px;
 }
 
  .teams .carousel .card .box{
