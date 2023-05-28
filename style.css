@@ -1088,12 +1088,12 @@ footer .wave#wave4
     /* border-radius: 12px; */
 }
 /* responsive media query start */
-@media (max-width: 1104px) {
+/* @media (max-width: 1104px) {
     .about .about-content .left img{
         height: 350px;
         width: 350px;
     }
-}
+} */
 
 @media (max-width: 991px) {
     .max-width{
